@@ -1,0 +1,16 @@
+.button, .button1{
+   margin: 5px;
+  padding: 5px;
+  color: black;
+  background-color: aquamarine;
+  border-radius: 10%;
+  border-style: solid;
+  cursor: pointer;
+}
+.button:hover,
+.button1:hover {
+  background-color: whitesmoke;
+  color: black;
+  box-shadow: 10px 10px black;
+}
+
